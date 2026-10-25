@@ -27,7 +27,7 @@
 
 **Chatbot** is an AI conversational assistant client built with Flutter. It focuses on delivering a responsive messaging experience with natural chat bubbles, Markdown-style formatting, real-time typing indicators, customizable dark/light ambient themes, and seamless keyboard handling.
 
-Designed as an extensible client for large language model backends (Gemini, Claude, OpenAI), Chatbot features clean state separation via Provider and modular widget hierarchies.
+Designed as an extensible client for large language model backends (Gemini, OpenAI), Chatbot features clean state separation via Provider and modular widget hierarchies.
 
 ---
 
