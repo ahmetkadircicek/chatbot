@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Chatbot Banner](docs/banner.svg)
+![Chatbot](docs/cover.png)
 
 ### Modern conversational AI interface with streaming dialogue bubbles and theme adaptation built with Flutter.
 
